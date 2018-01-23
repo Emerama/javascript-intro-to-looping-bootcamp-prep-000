@@ -11,5 +11,5 @@ function forLoop(array) {
 }
 
 function whileLoop(array) {
-  return Math.random()
+  while (n > 0)
 }
